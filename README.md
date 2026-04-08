@@ -56,9 +56,10 @@ Analyzed exposed services to understand possible vulnerabilities and attack vect
 ---
 
 ## Screenshots
+<img width="1104" height="929" alt="Screenshot 2026-04-08 185455" src="https://github.com/user-attachments/assets/fa9a166f-03ba-44be-8a8d-bf889a7c121d" />
 
 
----
+<img width="1131" height="932" alt="Screenshot 2026-04-08 190331" src="https://github.com/user-attachments/assets/44498260-0fdf-451c-96ba-68d9cb6d8ffd" />
 
 ## Key Learnings
 - Open ports are potential attack surfaces
@@ -73,8 +74,8 @@ This project was conducted in a controlled lab environment for educational purpo
 
 ---
 
-## 🔗 Related Article
-(Read the full breakdown here: [Insert your Medium link])
+## 🔗 Check me out
+(On linkedlin here: www.linkedin.com/in/olabode-williams-
 
 ---
 
